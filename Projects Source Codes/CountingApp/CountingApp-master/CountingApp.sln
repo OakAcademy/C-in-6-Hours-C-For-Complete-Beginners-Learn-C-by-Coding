@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "counting2", "counting2\counting2.csproj", "{D8BC3C11-9C48-4891-848F-A38DA66906AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BC3C11-9C48-4891-848F-A38DA66906AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BC3C11-9C48-4891-848F-A38DA66906AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BC3C11-9C48-4891-848F-A38DA66906AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BC3C11-9C48-4891-848F-A38DA66906AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47ED9FE6-708A-4E51-9A86-B426334E3833}
+	EndGlobalSection
+EndGlobal
